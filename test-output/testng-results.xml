@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="164183" started-at="2018-04-11T12:16:13Z" finished-at="2018-04-11T12:18:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="164183" started-at="2018-04-11T12:16:13Z" finished-at="2018-04-11T12:18:57Z">
+      <class name="testcases.Verify_BitlyExecution">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcases.Verify_BitlyExecution@167c1fc]" name="setup" is-config="true" duration-ms="4421" started-at="2018-04-11T17:46:13Z" finished-at="2018-04-11T17:46:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="FacebookBitlyExecution()[pri:1, instance:testcases.Verify_BitlyExecution@167c1fc]" name="FacebookBitlyExecution" duration-ms="59210" started-at="2018-04-11T17:46:17Z" finished-at="2018-04-11T17:47:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FacebookBitlyExecution -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcases.Verify_BitlyExecution@167c1fc]" name="setup" is-config="true" duration-ms="4300" started-at="2018-04-11T17:47:16Z" finished-at="2018-04-11T17:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TwitterBitlyexecution()[pri:2, instance:testcases.Verify_BitlyExecution@167c1fc]" name="TwitterBitlyexecution" duration-ms="60389" started-at="2018-04-11T17:47:20Z" finished-at="2018-04-11T17:48:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TwitterBitlyexecution -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcases.Verify_BitlyExecution@167c1fc]" name="setup" is-config="true" duration-ms="3717" started-at="2018-04-11T17:48:21Z" finished-at="2018-04-11T17:48:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="emailBitlyexecution()[pri:3, instance:testcases.Verify_BitlyExecution@167c1fc]" name="emailBitlyexecution" duration-ms="32115" started-at="2018-04-11T17:48:25Z" finished-at="2018-04-11T17:48:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailBitlyexecution -->
+      </class> <!-- testcases.Verify_BitlyExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
